@@ -6,7 +6,7 @@ description: >-
 
 # Developer Documentation
 
-## Getting Started
+## Getting Started开始
 
 {% tabs %}
 {% tab title="Coming From Ethereum?" %}
@@ -108,3 +108,6 @@ Create your own public or private blockchains.
 
 Native support for easily creating and trading digital smart assets with complex, custom rulesets.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTMzOTg5NDg3MF19
+-->
